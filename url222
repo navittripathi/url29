@@ -1,0 +1,45 @@
+{
+  "course": {
+    "courseId": "56dd40a0-e0fc-4731-8422-55353067cbed",
+    "categoryId": "81b102f0-211a-4f7e-8dbc-bb13893f460b",
+    "trainer": {
+      "fullName": "Ravikant Tyagi",
+      "about": "Good",
+      "developmentExperience": "8+ years",
+      "photo": "https://brain-mentors.com/wp-content/uploads/2020/11/ios.jpg",
+      "trainingExperience": "8+ years",
+      "awardsOrAchivements": "Tons of",
+      "headline": "My goal is to make everyone understand the true meaning of development with real time practical scenarios.",
+      "biography": "<p>Hello everyone, I am Ravikant Tyagi and I do have experience of 8+ years in IT as a developer and trainer. I have more than 100 websites live on internet and I have taught thousands of students, teachers & developers to learn to code and how to become professional developer with 100% practical knowledge.</p>\n"
+    },
+    "title": "Supervised Deep Learning with ANN, CNN & RNN",
+    "slug": "3461228-supervised-deep-learning-with-ann-cnn-rnn",
+    "subTitle": "Learn Deep Learning from scratch using Python and implement 5 Case Studies",
+    "deion": "<p>Welcome to the course of supervised deep learning from scratch using Python Programming with <strong>Tensorflow Framework. </strong>In this course you will learn to <strong>build 5 case studies</strong> that includes images and text processing.</p>\n<p>In this course you are going to learn ANN and its maths and that to implemented using <strong>Python from scratch using numpy only.</strong></p>\n<p>Then you will learn to implement ANN with Tensorflow along with some case studies to get started with. Topics that we are going to cover:</p>\n<p><strong>ANN - Artificial Neural Network</strong></p>\n<ul>\n<li>Feedforward and Backpropagation</li>\n<li>Implementing ANN from Scratch</li>\n<li>Machine Learning vs Deep Learning Comparison</li>\n</ul>\n<p>Introduction to Tensorflow</p>\n<p><strong>CNN - Convolutional Neural Network</strong></p>\n<ul>\n<li>Understanding CNN </li>\n<li>CNN Implementation using Tensoflow</li>\n<li>CNN Case Study Traffic Sign Classification</li>\n<li>Model Optimization</li>\n<li>Gradient Tape</li>\n</ul>\n<p><strong>RNN</strong></p>\n<ul>\n<li>Introduction to RNN</li>\n<li>RNN Maths</li>\n<li>Addition to 2 Binary Numbers using RNN</li>\n<li>Introduction to LSTM</li>\n<li>Sentiment Analysis using LSTM</li>\n</ul>\n<p><strong>RNN Case Study</strong></p>\n<p></p>\n",
+    "prerequisites": [
+      "Basics of Python Programming",
+      "Little bit of Machine Learning"
+    ],
+    "objectives": [
+      "Learn Deep Learning using Python from Scratch",
+      "100% practical learning",
+      "Learn Tensorflow with practical implementation",
+      "Build 5 case studies with images and text datasets"
+    ],
+    "targetAudience": [
+      "Anyone with basic knowledge of Python and Machine Learning",
+      "Students, Developers or Faculty members who wants to get started in Deep Learning from zero level"
+    ],
+    "level": 0,
+    "locale": "",
+    "courseImage": "https://brain-mentors.com/wp-content/uploads/2020/11/ios.jpg",
+    "originalPrice": "5500",
+    "costPrice": 599,
+    "totalNumChapters": 155,
+    "createdAt": "2022-09-01T02:03:56.292Z",
+    "lastUpdated": "2022-09-08T14:16:18.158Z",
+    "isFree": false,
+    "promoAsset": null,
+    "isPublished": true
+  }
+}
